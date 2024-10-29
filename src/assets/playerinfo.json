@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": "100000",
+    "image": "https://i.ibb.co.com/xF0fNs2/licensed-image.jpg",
+    "buttonText": "Choose Player"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": "Left-Hand-Bat",
+    "price": "90000",
+    "image": "https://i.ibb.co.com/qgDMhBR/263820-3.webp",
+    "buttonText": "Choose Player"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicket keeper",
+    "rating": "Right-Hand-Bat",
+    "price": "85000",
+    "image": "https://i.ibb.co.com/k45mp54/dqhht9392uwkekzfryqm.jpg",
+    "buttonText": "Choose Player"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": "Left-hand bat",
+    "price": "95000",
+    "image": "https://i.ibb.co.com/8m96JHR/unnamed.jpg",
+    "buttonText": "Choose Player"
+  },
+  
+  {
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": "Right-hand bat",
+    "price": "90000",
+    "image": "https://i.ibb.co.com/Mpz0551/prothomalo-english-2021-10-c948c397-1942-452d-b9c3-76709ac01347-Cricket.webp",
+    "buttonText": "Choose Player"
+  },
+ 
+  {
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper",
+    "rating": "Left-Hand-Bat",
+    "price": "50000",
+    "image": "https://i.ibb.co.com/JHpbFzF/prothomalo-english-2020-03-22c00e85-853a-4ba9-9a7a-b1b661bc06c4-Liton-Century.webp",
+    "buttonText": "Choose Player"
+  }
+]
